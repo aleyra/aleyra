@@ -1,4 +1,3 @@
-I'm a student at 42school
 <h1 align="center">Hi there 👋, I'm Lucille BURNET</h1>
 <h3 align="center">I'm a student at 42school and I'm interested in software dev and AI</h3>
 
