@@ -3,10 +3,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleyra&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleyra&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
 
-<p align="center"><img align="center" src="https://badge42.herokuapp.com/api/stats/lburnet"/>
+<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl1p78ilq003509ldje8uuiac/stats?cursusId=21&coalitionId=50"/>
 <div align='center'>
 <h3>42 common core projects</h3>
-
+  
 |[libft](https://github.com/aleyra/Libft) | [get_next_line](https://github.com/aleyra/Get_Next_Line) | [ft_printf](https://github.com/aleyra/ft_printf) | netwhat | [ft_server](https://github.com/aleyra/ft_server) | [miniRT](https://github.com/aleyra/miniRT)|
 |-----------|-----------|-----------|-----------|-----------|-----------|
 |  115/100  |  112/100  |  100/100  |  100/100  |  100/100  |  100/100  |
