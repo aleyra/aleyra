@@ -19,7 +19,7 @@
 |-------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | 95/100 | 100/100 | 80/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 | 100/100 |
   
-|[Inception](https://github.com/aleyra/Inception)|[ft_containers](https://github.com/aleyra/ft_containers.git)|[ft_irc](https://github.com/aleyra/ft_irc)|ft_transcendence(https://github.com/aleyra/transcendence)|
+|[Inception](https://github.com/aleyra/Inception)|[ft_containers](https://github.com/aleyra/ft_containers.git)|[ft_irc](https://github.com/aleyra/ft_irc)|[ft_transcendence](https://github.com/aleyra/transcendence)|
 | ------------|------------|------------|------------|
 | 100/100 | 80/100 | 115/100 |            |
 
