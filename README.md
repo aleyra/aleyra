@@ -1,18 +1,11 @@
-<style>
-.flex-container {
-  display: flex;
-}
-
-</style>
-
 <h1 align="center">Hi there 👋, I'm Lucille BURNET</h1>
 <h3 align="center">I'm a student at 42school and I'm interested in software dev and AI</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleyra&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleyra&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
 
-<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl1p78ilq003509ldje8uuiac/stats?cursusId=21&coalitionId=50"/>
+<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl1p78ilq003509ldje8uuiac/stats?cursusId=21&coalitionId=50"/></p>
 <div align='center'>
-<h3>42 common core projects</h3>
+  <h3>42 common core projects</h3>
   
 |[libft](https://github.com/aleyra/Libft) | [get_next_line](https://github.com/aleyra/Get_Next_Line) | [ft_printf](https://github.com/aleyra/ft_printf) | netwhat | [ft_server](https://github.com/aleyra/ft_server) | [miniRT](https://github.com/aleyra/miniRT)|
 |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -34,17 +27,11 @@
 <div align='center'>
   <h3 align="center">Outer Circle</h3>
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
-  <div>
     <h1>Web - Database</h1>
     | Piscine Python Django | Piscine Php Symfony | Piscine Ruby On Rails | Red Tetris | Darkly |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 |  [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) | [project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris) | [project's page](https://projects.intra.42.fr/projects/42cursus-darkly) |
 
-    |Piscine Python Django|Piscine Php Symfony|Piscine Ruby On Rails|Red Tetris|Darkly|
-    |-----------|-----------|-----------|-----------|-----------|
-    |[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails)|[project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris)|[project's page](https://projects.intra.42.fr/projects/42cursus-darkly)|
-  </div>
-  <div>
     <h1>Intelligence Artificielle</h1>
     |[Matrix]|[Expert system]||[Total Perspective Vortex]|[Krpsim]|[Multilayer Perceptron]|[Gomoku]|
     |-----------|-----------|-----------|-----------|-----------|-----------|
