@@ -36,7 +36,7 @@
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
   <div>
     <h1>Web - Database</h1>
-    |[Piscine Python Django]|[Piscine Php Symfony]|[Piscine Ruby On Rails]|[Red Tetris]|[Darkly]|
+    |Piscine Python Django|Piscine Php Symfony|Piscine Ruby On Rails|Red Tetris|Darkly|
     |-----------|-----------|-----------|-----------|-----------|
     |[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails)|[project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris)|[project's page](https://projects.intra.42.fr/projects/42cursus-darkly)|
   </div>
