@@ -31,14 +31,37 @@
 | 100/100 | 80/100 | 115/100 | 100 / 100 |
 
 </div>
-<div align='center'>
+<div align='center' style='Outer_circle'>
   <h3 align="center">Outer Circle</h3>
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
   <div>
     <h1>Web - Database</h1>
-    |Piscine Python Django|Piscine Php Symfony|Piscine Ruby On Rails|Red Tetris|Darkly|
+    <table>
+      <td>
+        <tr>Piscine Python Django</tr>
+        <tr><a href= "https://projects.intra.42.fr/projects/42cursus-piscine-python-django">project's page on 42</tr>
+      </td>
+      <td>
+        <tr>Piscine Php Symfony</tr>
+        <tr><a href= "https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42</tr>
+      </td>
+      <td>
+        <tr>Piscine Ruby On Rails</tr>
+        <tr><a href= "https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42</tr>
+      </td>
+      <td>
+        <tr>Red Tetris</tr>
+        <tr><a href= "https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42</tr>
+      </td>
+      <td>
+        <tr>Darkly</tr>
+        <tr><a href= "https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42</tr>
+      </td>
+    </table>
+
+    ||||||
     |-----------|-----------|-----------|-----------|-----------|
-    |[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails)|[project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris)|[project's page](https://projects.intra.42.fr/projects/42cursus-darkly)|
+    |[]()|[project's page]()|[project's page]()|[project's page]()|[project's page]()|
   </div>
   <div>
     <h1>Intelligence Artificielle</h1>
