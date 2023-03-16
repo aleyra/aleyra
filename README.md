@@ -36,9 +36,9 @@
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
   <div>
     <h1>Web - Database</h1>
-    |[Piscine Python Django](https://github.com/aleyra/Libft) | [get_next_line](https://github.com/aleyra/Get_Next_Line) | [ft_printf](https://github.com/aleyra/ft_printf) | netwhat | [ft_server](https://github.com/aleyra/ft_server) | [miniRT](https://github.com/aleyra/miniRT)|
+    | Piscine Python Django | Piscine Php Symfony | Piscine Ruby On Rails | Red Tetris | Darkly |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-|  [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django) |  112/100  |  100/100  |  100/100  |  100/100  |  100/100  |
+|  [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) | [project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris) | [project's page](https://projects.intra.42.fr/projects/42cursus-darkly) |
 
     |Piscine Python Django|Piscine Php Symfony|Piscine Ruby On Rails|Red Tetris|Darkly|
     |-----------|-----------|-----------|-----------|-----------|
