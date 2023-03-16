@@ -1,3 +1,10 @@
+<style>
+.flex-container {
+  display: flex;
+}
+
+</style>
+
 <h1 align="center">Hi there 👋, I'm Lucille BURNET</h1>
 <h3 align="center">I'm a student at 42school and I'm interested in software dev and AI</h3>
 
@@ -23,6 +30,28 @@
 | ------------|------------|------------|------------|
 | 100/100 | 80/100 | 115/100 | 100 / 100 |
 
+</div>
+<div>
+  <h3>Outer Circle</h3>
+  <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
+  <div>
+    <h1>Web - Database</h1>
+    |[Piscine Python Django]|[Piscine Php Symfony]|[Piscine Ruby On Rails]|[Red Tetris]|[Darkly]|
+    |-----------|-----------|-----------|-----------|-----------|
+    |[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony)|[project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails)|[project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris)|[project's page](https://projects.intra.42.fr/projects/42cursus-darkly)|
+  </div>
+  <div>
+    <h1>Intelligence Artificielle</h1>
+    |[Matrix]|[Expert system]||[Total Perspective Vortex]|[Krpsim]|[Multilayer Perceptron]|[Gomoku]|
+    |-----------|-----------|-----------|-----------|-----------|-----------|
+    |[project's page](https://projects.intra.42.fr/projects/matrix)|[project's page](https://projects.intra.42.fr/projects/42cursus-expert-system)|[project's page](https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex)|[project's page](https://projects.intra.42.fr/projects/42cursus-krpsim)|[project's page](https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron)|[project's page](https://projects.intra.42.fr/projects/42cursus-gomoku)|
+  </div>
+  <div>
+     <h1>Others</h1>
+    |[Rubik]|[?]|
+    |-----------|-----------|
+    |[project's page](https://projects.intra.42.fr/projects/42cursus-rubik)|[project's page]|
+  </div>
 </div>
 <!--
 **aleyra/aleyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
