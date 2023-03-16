@@ -31,7 +31,7 @@
 | 100/100 | 80/100 | 115/100 | 100 / 100 |
 
 </div>
-<div>
+<div align='center'>
   <h3>Outer Circle</h3>
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
   <div>
