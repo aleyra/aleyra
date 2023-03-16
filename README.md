@@ -28,20 +28,25 @@
   <h3 align="center">Outer Circle</h3>
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
     <h1>Web - Database</h1>
-    | Piscine Python Django | Piscine Php Symfony | Piscine Ruby On Rails | Red Tetris | Darkly |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|  [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-python-django) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony) | [project's page](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) | [project's page](https://projects.intra.42.fr/projects/42cursus-red-tetris) | [project's page](https://projects.intra.42.fr/projects/42cursus-darkly) |
-
+    <ul>
+      <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-python-django">project's page</a></li>
+      <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page</a></li>
+      <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page</a></li>
+      <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page</a></li>
+      <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page</a></li>
+    </ul>
     <h1>Intelligence Artificielle</h1>
-    |[Matrix]|[Expert system]||[Total Perspective Vortex]|[Krpsim]|[Multilayer Perceptron]|[Gomoku]|
-    |-----------|-----------|-----------|-----------|-----------|-----------|
-    |[project's page](https://projects.intra.42.fr/projects/matrix)|[project's page](https://projects.intra.42.fr/projects/42cursus-expert-system)|[project's page](https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex)|[project's page](https://projects.intra.42.fr/projects/42cursus-krpsim)|[project's page](https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron)|[project's page](https://projects.intra.42.fr/projects/42cursus-gomoku)|
-  </div>
-  <div>
-     <h1>Others</h1>
-    |[Rubik]|[?]|
-    |-----------|-----------|
-    |[project's page](https://projects.intra.42.fr/projects/42cursus-rubik)|[project's page]|
+    <ul>
+      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page</a></li>
+      <li>Expert system : <a href="https://projects.intra.42.fr/projects/42cursus-expert-system">project's page</a></li>
+      <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page</a></li>
+      <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page</a></li>
+      <li>Multilayer Perceptron : <a href="https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron">project's page</a></li>
+      <li>Rubik : <a href="https://projects.intra.42.fr/projects/42cursus-rubik">project's page</a></li>
+      <li>Gomoku : <a href="https://projects.intra.42.fr/projects/42cursus-gomoku">project's page</a></li>
+    </ul>
+    <h1>Others</h1>
+    I need to choose a project
   </div>
 </div>
 <!--
