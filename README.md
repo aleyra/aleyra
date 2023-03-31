@@ -33,7 +33,7 @@
       <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a></li>
       <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a></li>
       <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a></li>
-      <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a> <a href="https://github.com/aleyra/Darkly">Repository</a> - Working on it</li>
+      <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a> - <a href="https://github.com/aleyra/Darkly">Repository</a> - Working on it</li>
     </ul>
     <h1>Intelligence Artificielle</h1>
     <ul>
