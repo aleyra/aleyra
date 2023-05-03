@@ -37,7 +37,7 @@
     </ul>
     <h1>Intelligence Artificielle</h1>
     <ul>
-      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a></li>
+      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a> - <a href="https://github.com/aleyra/Matrix">Repository</a> - working on it</li>
       <li>Expert system : <a href="https://projects.intra.42.fr/projects/42cursus-expert-system">project's page on 42 website</a></li>
       <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page on 42 website</a></li>
       <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page on 42 website</a></li>
