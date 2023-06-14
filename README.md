@@ -48,6 +48,13 @@
     <h1>Others</h1>
     I need to choose a project
   </div>
+  <div>
+    <h1>Other Projets</h1>
+    <ul>
+      <li>42 AI - Bootcamp Python : <a haref="https://github.com/42-AI/bootcamp_python/releases">project on 42 AI's github<a> - <a href="https://github.com/aleyra/42IA_bootcamp_python">Repository</a></li>
+      <li>42 AI - Bootcamp Python : <a haref="https://github.com/42-AI/bootcamp_machine-learning/releases">project on 42 AI's github<a> - <a href="https://github.com/aleyra/42IA_bootcamp_machine-learning">Repository</a></li>
+    </ul>
+  </div>
 </div>
 <!--
 **aleyra/aleyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
