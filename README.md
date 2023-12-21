@@ -29,7 +29,7 @@
   <h2>Titre RNCP niveau 7 Expert en Architecture Informatique speciality Architecture des bases de données et data : working on it</h2>
     <h1>Web - Database</h1>
     <ul>
-      <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/piscine-django">project's page on 42 website</a> - <a href="https://github.com/aleyra/Piscine-Django/tree/master">Repository</a> - working on it</li></li> 
+      <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/piscine-django">project's page on 42 website</a> - <a href="https://github.com/aleyra/Piscine-Django/tree/master">Repository</a> - 93/100</li></li> 
       <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a></li>
       <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a></li>
       <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/Tactoe/redtetris">Repository</a> - waiting for a mate to continue</li>
