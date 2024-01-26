@@ -32,12 +32,12 @@
       <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/piscine-django">project's page on 42 website</a> - <a href="https://github.com/aleyra/Piscine-Django/tree/master">Repository</a> - 93/100</li></li> 
       <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a></li>
       <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a></li>
-      <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/Tactoe/redtetris">Repository</a> - waiting for a mate to continue</li>
+      <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/aleyra/red-tetris/tree/master">Repository</a> - on going</li>
       <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a> - <a href="https://github.com/aleyra/Darkly">Repository</a> - 125/100</li>
     </ul>
     <h1>Intelligence Artificielle</h1>
     <ul>
-      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a> - <a href="https://github.com/aleyra/Matrix">Repository</a> -Stand by</li>
+      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a> - <a href="https://github.com/aleyra/Matrix">Repository</a> - Stand by</li>
       <li>Expert system : <a href="https://projects.intra.42.fr/projects/42cursus-expert-system">project's page on 42 website</a></li>
       <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page on 42 website</a></li>
       <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page on 42 website</a></li>
