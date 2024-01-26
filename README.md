@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lucille BURNET</h1>
-<h3 align="center">I'm a student at 42school and I'm interested in software dev and AI</h3>
+<h3 align="center">I'm a student at 42school and I'm interested in software dev, AI, web app and other applications</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleyra&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleyra&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
-
-<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/cl1p78ilq003509ldje8uuiac/stats?cursusId=21&coalitionId=50"/></p>
+<p align="center"><img align="center" src="https://badge.mediaplus.ma/darkblue/lburnet?1337Badge=off&UM6P=off"/></p>
 <div align='center'>
   <h3>42 common core projects</h3>
   
@@ -32,7 +30,7 @@
       <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/piscine-django">project's page on 42 website</a> - <a href="https://github.com/aleyra/Piscine-Django/tree/master">Repository</a> - 93/100</li></li> 
       <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a></li>
       <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a></li>
-      <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/aleyra/red-tetris/tree/master">Repository</a> - on going</li>
+      <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/aleyra/red-tetris/tree/master">Repository</a> - in progress</li>
       <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a> - <a href="https://github.com/aleyra/Darkly">Repository</a> - 125/100</li>
     </ul>
     <h1>Intelligence Artificielle</h1>
