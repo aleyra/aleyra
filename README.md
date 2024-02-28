@@ -36,11 +36,12 @@
     <h1>Intelligence Artificielle</h1>
     <ul>
       <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a> - <a href="https://github.com/aleyra/Matrix">Repository</a> - Stand by</li>
-      <li>Expert system : <a href="https://projects.intra.42.fr/projects/42cursus-expert-system">project's page on 42 website</a></li>
+      <li>Ready set boole : <a href="https://projects.intra.42.fr/projects/ready-set-boole">project's page en 42 website</a></li>
+      <li>DSLR : <a href="https://projects.intra.42.fr/projects/42cursus-dslr">project's page en 42 website</a></li>
       <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page on 42 website</a></li>
-      <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page on 42 website</a></li>
       <li>Multilayer Perceptron : <a href="https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron">project's page on 42 website</a></li>
       <li>Rubik : <a href="https://projects.intra.42.fr/projects/42cursus-rubik">project's page on 42 website</a></li>
+      <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page on 42 website</a></li>
       <li>Gomoku : <a href="https://projects.intra.42.fr/projects/42cursus-gomoku">project's page on 42 website</a></li>
     </ul>
     <h1>Others</h1>
