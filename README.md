@@ -54,6 +54,10 @@
       <li>42 AI - Bootcamp Machine-learning : <a href="https://github.com/42-AI/bootcamp_machine-learning/releases">project on 42 AI's github<a> - <a href="https://github.com/aleyra/42IA_bootcamp_machine-learning">Repository</a></li>
     </ul>
   </div>
+  <h2>Other project done at 42</h2>
+        <ul>
+          <li> Snow Crash : <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash">project's page on 42 website</a> - <a href="https://github.com/mfunyu/snow-crash">Repository</a> - / 100</li>
+        </ul>
 </div>
 <!--
 **aleyra/aleyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
