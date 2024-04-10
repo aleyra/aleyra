@@ -56,7 +56,7 @@
   </div>
   <h2>Other project done at 42</h2>
         <ul>
-          <li> Snow Crash : <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash">project's page on 42 website</a> - <a href="https://github.com/mfunyu/snow-crash">Repository</a> - / 100</li>
+          <li> Snow Crash : <a href="https://projects.intra.42.fr/projects/42cursus-snow-crash">project's page on 42 website</a> - <a href="https://github.com/mfunyu/snow-crash">Repository</a> - 125 / 100</li>
         </ul>
 </div>
 <!--
