@@ -28,24 +28,25 @@
     <h1>Web - Database</h1>
     <ul>
       <li>Piscine Python Django : <a href="https://projects.intra.42.fr/projects/piscine-django">project's page on 42 website</a> - <a href="https://github.com/aleyra/Piscine-Django/tree/master">Repository</a> - 93/100</li></li> 
-      <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a></li>
-      <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a></li>
+      <li>Piscine Php Symfony : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony">project's page on 42 website</a> - maybe </li>
+      <li>Piscine Ruby On Rails : <a href="https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails">project's page on 42 website</a> - maybe </li>
       <li>Red Tetris : <a href="https://projects.intra.42.fr/projects/42cursus-red-tetris">project's page on 42 website</a> - <a href="https://github.com/aleyra/red-tetris/tree/master">Repository</a> - in progress</li>
       <li>Darkly : <a href="https://projects.intra.42.fr/projects/42cursus-darkly">project's page on 42 website</a> - <a href="https://github.com/aleyra/Darkly">Repository</a> - 125/100</li>
+      <li>Matcha : <a href="https://projects.intra.42.fr/projects/42cursus-matcha">project's page on 42 website</a></li>
+      <li>Hypertube : <a href="https://projects.intra.42.fr/projects/42cursus-hypertube">project's page on 42 website</a></li>
     </ul>
     <h1>Intelligence Artificielle</h1>
     <ul>
-      <li>Matrix : <a href="https://projects.intra.42.fr/projects/matrix">project's page on 42 website</a> - <a href="https://github.com/aleyra/Matrix">Repository</a> - Stand by</li>
-      <li>Ready set boole : <a href="https://projects.intra.42.fr/projects/ready-set-boole">project's page en 42 website</a></li>
+      <li>ft_linear_regression : <a href="https://projects.intra.42.fr/projects/42cursus-ft_linear_regression">project's page en 42 website</a></li>
       <li>DSLR : <a href="https://projects.intra.42.fr/projects/42cursus-dslr">project's page en 42 website</a></li>
       <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page on 42 website</a></li>
       <li>Multilayer Perceptron : <a href="https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron">project's page on 42 website</a></li>
+      <li>Leaffliction : <a href="https://projects.intra.42.fr/projects/leaffliction">project's page on 42 website</a></li>
       <li>Rubik : <a href="https://projects.intra.42.fr/projects/42cursus-rubik">project's page on 42 website</a></li>
-      <li>Krpsim : <a href="https://projects.intra.42.fr/projects/42cursus-krpsim">project's page on 42 website</a></li>
       <li>Gomoku : <a href="https://projects.intra.42.fr/projects/42cursus-gomoku">project's page on 42 website</a></li>
     </ul>
-    <h1>Others</h1>
-    I need to choose a project
+    <h1>"Suite"</h1>
+    Total Perspective Vortex
   </div>
   <div>
     <h1>Other Projets</h1>
