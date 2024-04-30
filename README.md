@@ -37,7 +37,7 @@
     </ul>
     <h1>Intelligence Artificielle</h1>
     <ul>
-      <li>ft_linear_regression : <a href="https://projects.intra.42.fr/projects/42cursus-ft_linear_regression">project's page en 42 website</a></li>
+      <li>ft_linear_regression : <a href="https://projects.intra.42.fr/projects/42cursus-ft_linear_regression">project's page en 42 website</a> - <a href="https://github.com/aleyra/ft_linear_regresssion">Repository</a> - waiting for correction</li>
       <li>DSLR : <a href="https://projects.intra.42.fr/projects/42cursus-dslr">project's page en 42 website</a></li>
       <li>Total Perspective Vortex : <a href="https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex">project's page on 42 website</a></li>
       <li>Multilayer Perceptron : <a href="https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron">project's page on 42 website</a></li>
