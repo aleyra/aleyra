@@ -28,13 +28,13 @@ At 42, we don't progress from one year to another in the traditional sense. We d
 
 The Common Core is mandatory to complete and succeed in the initial training.
 
-The Outer Circle (so named because of our "Holy Graph" witch illustrate our training program) serves as a sort of bonus, enabling us to specialize and earn "RNCP" titles.
+The Outer Circle (so named because of our "Holy Graph" which illustrate our training program) serves as a sort of bonus, enabling us to specialize and earn "RNCP" titles.
 
 ### 42 common core projects
 
 Legend :
 * "Old" : means I have done before a reorganization of the training program that happen during our training. It can involve big changes in the subject of a project.
-* "Actual" : means it correcpond to our actual training program
+* "Actual" : means it corresponds to our actual training program
 
 #### Circle 0
 | [libft](https://github.com/aleyra/Libft) | [get_next_line](https://github.com/aleyra/Get_Next_Line) | [ft_printf](https://github.com/aleyra/ft_printf) |
