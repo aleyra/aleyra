@@ -92,9 +92,9 @@ I have three modules with different projects to complete:
 - [Piscine Python Django](https://github.com/aleyra/Piscine-Django/tree/master) - 93/100
 - Piscine Php Symfony : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony) - maybe 
 - Piscine Ruby On Rails : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) - maybe 
-- Red Tetris : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-red-tetris) - [Repository](https://github.com/aleyra/red-tetris/tree/master) - in progress
+- Red Tetris : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-red-tetris) - [Repository](https://github.com/aleyra/red-tetris/tree/master) - stand by
 - [Darkly](https://github.com/aleyra/Darkly) - 125/100
-- Matcha : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-matcha)
+- Matcha : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-matcha) - [Repository](https://github.com/aleyra/matcha) - in progress
 - Hypertube : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-hypertube)
 
 ##### Artificial Intelligence
