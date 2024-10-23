@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Lucille BURNET
 
-I'm a student at 42school and I'm looking for an apprenticeship in software dev, AI, web app and other applications
-
-![42 Badge](https://badge.mediaplus.ma/darkblue/lburnet?1337Badge=off&UM6P=off)
+I'm a former student at 42school and I'm looking for a job in software dev, AI, web app and other applications
 
 ## Table of Contents
 
@@ -79,9 +77,9 @@ Legend :
 ### Outer Circle
 
 #### For "RNCP" level 7 title "Expert in Computer Architecture" with a specialization in "Database and Data Architecture."
-Here, we can specialize and earn an "RNCP" title by meeting certain conditions. I am aiming for an RNCP Level 7 title (equivalent to a Master's degree) called **"Expert in Computer Architecture"** with a specialization in **"Database and Data Architecture."**
+Here, we can specialize and earn an "RNCP" title by meeting certain conditions. I was aiming for an RNCP Level 7 title (equivalent to a Master's degree) called **"Expert in Computer Architecture"** with a specialization in **"Database and Data Architecture."**
 
-I have three modules with different projects to complete:
+I had three modules with different projects to complete:
 
 * **Web - Database**
 * **Artificial Intelligence**
@@ -89,31 +87,18 @@ I have three modules with different projects to complete:
 
 
 ##### Web - Database
-- [Piscine Python Django](https://github.com/aleyra/Piscine-Django/tree/master) - 93/100
-- Piscine Php Symfony : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony) - maybe 
-- Piscine Ruby On Rails : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails) - maybe 
-- Red Tetris : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-red-tetris) - [Repository](https://github.com/aleyra/red-tetris/tree/master) - stand by
+- [Piscine Python Django](https://github.com/aleyra/Piscine-Django/tree/master) - 93/100 
+- Red Tetris : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-red-tetris) - [Repository](https://github.com/aleyra/red-tetris/tree/master) - stopped
 - [Darkly](https://github.com/aleyra/Darkly) - 125/100
-- Matcha : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-matcha) - [Repository](https://github.com/aleyra/matcha) - in progress
-- Hypertube : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-hypertube)
+- Matcha : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-matcha) - [Repository](https://github.com/aleyra/matcha) - stopped
 
 ##### Artificial Intelligence
 
 - [ft_linear_regression](https://github.com/aleyra/ft_linear_regresssion) - 118/100
 - [DSLR](https://github.com/fdaumas/dslr) - 110/100
-- Total Perspective Vortex : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex)
-- Multilayer Perceptron : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron)
-- Leaffliction : [project's page on 42 website](https://projects.intra.42.fr/projects/leaffliction)
-- Rubik : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-rubik)
-- Gomoku : [project's page on 42 website](https://projects.intra.42.fr/projects/42cursus-gomoku)
-
-##### "Suite"
-
-- Total Perspective Vortex (see in [Artificial Intelligence](#artificial-intelligence))
 
 #### Other projects done at 42 out of curiosity, necessity, or to help friends
 - [Snow Crash](https://github.com/mfunyu/snow-crash) - 125 / 100
-- ft_turing
 
 ## Projects outside of 42
 - 42 AI - Bootcamp Python : [project on 42 AI's github](https://github.com/42-AI/bootcamp_python/releases) - [Repository](https://github.com/aleyra/42IA_bootcamp_python) - Done during my internship: I was tasked with self-learning how to code a machine learning model.
