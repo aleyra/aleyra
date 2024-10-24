@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lucille BURNET
 
-I'm a former student at 42school and I'm looking for a job in software dev, AI, web app and other applications
+I'm a former teacher and I studied at 42school. I'm looking for a job in software dev, AI, web app and other applications
 
 ## Table of Contents
 
